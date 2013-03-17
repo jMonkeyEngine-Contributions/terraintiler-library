@@ -3,6 +3,7 @@
 <filesystem>
     <folder name="org-netbeans-api-project-libraries">
         <folder name="Libraries">
+            <file name="TerrainTiler-lib.xml" url="TerrainTiler-lib.xml"/>
             <file name="TerrainTiler-library.xml" url="TerrainTiler-library.xml"/>
         </folder>
     </folder>
